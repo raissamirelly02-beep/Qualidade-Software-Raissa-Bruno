@@ -1,3 +1,14 @@
-[02/03/2026]
-Raissa:
-Fiz o readme.md, o plano_teste.txt, requirements.txt e o curriculo.json. No currilo.json adicionei informaçôes como nome, data, idade, cidade e estado. Deixei um pull requests de correçâo.
+• Quais dificuldades encontraram? 
+Raíssa: ter a idéia do que criar e por causa disso tive dificuldade de entender o Github.
+
+• Como o controle de versão ajuda a evitar erros?
+Raíssa: trazendo a possibilidade de reverter uma alteração.
+
+• Como os commits ajudam na rastreabilidade?
+Raíssa: saber quem alterou o arquivo ou código e saber o que foi alterado dentro deles trazendo um antes e depois.
+
+• Qual a importância do histórico de alterações?
+Raíssa: saber as mudanças dos arquivos.
+
+• Como o GitHub pode melhorar a qualidade do software?
+Raíssa: melhora a qualidade ao permitir controle, revisâo e colaboração organizada no desenvolvimento.
