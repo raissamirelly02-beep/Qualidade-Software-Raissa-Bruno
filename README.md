@@ -1,4 +1,4 @@
-# Qualidade-Software-Raissa-Bruno
+# Qualidade-Software-Raissa-Bruno-Arthur
 Atividade de Qualidade de Software
 
 Nome da dupla: Raissa & Bruno 
